@@ -68,3 +68,4 @@ atlassian-ide-plugin.xml
 .nbattrs
 /bin
 /test-output
+.java-version
